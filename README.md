@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jayaprakash367/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
