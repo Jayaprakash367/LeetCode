@@ -38,6 +38,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
