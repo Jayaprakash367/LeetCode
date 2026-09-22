@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Jayaprakash367/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayaprakash367/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
@@ -72,4 +74,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Jayaprakash367/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
