@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/Jayaprakash367/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayaprakash367/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 <!---LeetCode Topics End-->
