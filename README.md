@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Jayaprakash367/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayaprakash367/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jayaprakash367/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -27,12 +28,14 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jayaprakash367/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jayaprakash367/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Jayaprakash367/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jayaprakash367/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -64,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Jayaprakash367/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +84,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1603-design-parking-system](https://github.com/Jayaprakash367/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -109,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
