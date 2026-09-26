@@ -53,6 +53,7 @@
 | [0066-plus-one](https://github.com/Jayaprakash367/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Jayaprakash367/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
