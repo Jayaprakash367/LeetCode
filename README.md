@@ -20,6 +20,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jayaprakash367/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayaprakash367/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -64,6 +65,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jayaprakash367/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayaprakash367/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
@@ -74,6 +76,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Design
@@ -121,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
