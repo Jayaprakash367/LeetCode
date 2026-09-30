@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -135,4 +136,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Jayaprakash367/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
