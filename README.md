@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaprakash367/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jayaprakash367/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayaprakash367/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
@@ -163,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jayaprakash367/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jayaprakash367/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
