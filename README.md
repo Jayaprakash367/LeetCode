@@ -92,6 +92,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Design
@@ -155,6 +156,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -173,4 +175,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
