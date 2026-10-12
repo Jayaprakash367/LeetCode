@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayaprakash367/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1046-last-stone-weight](https://github.com/Jayaprakash367/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayaprakash367/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jayaprakash367/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayaprakash367/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
