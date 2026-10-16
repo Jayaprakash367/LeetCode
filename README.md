@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/Jayaprakash367/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
