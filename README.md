@@ -43,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/Jayaprakash367/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Design
@@ -115,6 +117,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jayaprakash367/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1603-design-parking-system](https://github.com/Jayaprakash367/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -169,6 +172,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
