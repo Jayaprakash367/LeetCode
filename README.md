@@ -74,6 +74,7 @@
 | [0048-rotate-image](https://github.com/Jayaprakash367/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Jayaprakash367/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Jayaprakash367/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/Jayaprakash367/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Jayaprakash367/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -121,6 +122,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Jayaprakash367/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1603-design-parking-system](https://github.com/Jayaprakash367/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Jayaprakash367/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
