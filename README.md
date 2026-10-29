@@ -77,6 +77,7 @@
 | [0069-sqrtx](https://github.com/Jayaprakash367/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Jayaprakash367/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/Jayaprakash367/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Jayaprakash367/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jayaprakash367/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Jayaprakash367/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0326-power-of-three](https://github.com/Jayaprakash367/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
