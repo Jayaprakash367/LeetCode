@@ -111,6 +111,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Jayaprakash367/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Jayaprakash367/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Jayaprakash367/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jayaprakash367/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -209,6 +210,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Jayaprakash367/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Jayaprakash367/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -222,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jayaprakash367/LeetCode/tree/main/0048-rotate-image/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Jayaprakash367/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
