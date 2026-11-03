@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayaprakash367/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1046-last-stone-weight](https://github.com/Jayaprakash367/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayaprakash367/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jayaprakash367/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayaprakash367/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -60,6 +61,7 @@
 | [0229-majority-element-ii](https://github.com/Jayaprakash367/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Jayaprakash367/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayaprakash367/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayaprakash367/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Jayaprakash367/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayaprakash367/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Jayaprakash367/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
