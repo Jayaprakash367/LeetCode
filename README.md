@@ -129,6 +129,7 @@
 | [0649-dota2-senate](https://github.com/Jayaprakash367/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0709-to-lower-case](https://github.com/Jayaprakash367/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Jayaprakash367/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1603-design-parking-system](https://github.com/Jayaprakash367/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
