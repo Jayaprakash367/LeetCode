@@ -39,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayaprakash367/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Jayaprakash367/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jayaprakash367/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/Jayaprakash367/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Jayaprakash367/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayaprakash367/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jayaprakash367/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@
 | [0709-to-lower-case](https://github.com/Jayaprakash367/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Jayaprakash367/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jayaprakash367/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jayaprakash367/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
